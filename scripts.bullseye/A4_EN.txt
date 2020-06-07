@@ -172,6 +172,7 @@
 ../cards/EN/methods/m48.svg
 ../cards/EN/methods/m95.svg
 ../cards/EN/methods/m63.svg
+../cards/EN/methods/m154.svg
 ../cards/EN/methods/m131.svg
 ../cards/EN/methods/m134.svg
 ../cards/EN/methods/m54.svg
@@ -193,7 +194,9 @@
 ../cards/EN/medicine/endocrinology/endo1.svg
 ../cards/EN/philosophie/philo2.svg
 ../cards/EN/philosophie/philo1.svg
+../cards/EN/mentalOperatingsystems/mos7.svg
 ../cards/EN/mentalOperatingsystems/mos6.svg
+../cards/EN/mentalOperatingsystems/mos0.svg
 ../cards/EN/mentalOperatingsystems/mos3.svg
 ../cards/EN/mentalOperatingsystems/mos5.svg
 ../cards/EN/mentalOperatingsystems/mos2.svg
