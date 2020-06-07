@@ -1,0 +1,14 @@
+HTTrack3.46+libhtsjava.so.2 launched on Mon, 26 Aug 2013 04:44:13 at https://www.inofix.net/cgi-bin/awstats.pl?config=ml.buzzernet.com
+(httrack https://www.inofix.net/cgi-bin/awstats.pl?config=ml.buzzernet.com )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+04:44:15	Info: 	engine: transfer-status: link updated: https://www.inofix.net/cgi-bin/awstats.pl?config=ml.buzzernet.com -> www.inofix.net/cgi-bin/awstatsff65.html
+04:44:15	Warning: 	Link https://www.inofix.net/cgi-bin/awstats.pl?config=ml.buzzernet.com not scanned (follow robots meta tag)
+No files purged
+
+HTTrack Website Copier/3.46 mirror complete in 2 seconds : 2 links scanned, 1 files written (1007 bytes overall), 1 files updated [1298 bytes received at 649 bytes/sec], 1189 bytes transfered using HTTP compression in 2 files, ratio 59%
+(No errors, 1 warnings, 1 messages)

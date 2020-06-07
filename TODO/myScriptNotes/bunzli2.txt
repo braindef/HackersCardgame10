@@ -1,0 +1,7 @@
+
+/bin/bash: $'\302\240date': command not found
+/bin/bash: $'\302\240date': command not found
+Sat Aug 24 22:43:35 CEST 2013
+
+
+

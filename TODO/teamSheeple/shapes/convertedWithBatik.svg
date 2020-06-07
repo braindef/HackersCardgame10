@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="convertedWithBatik.svg">
+  <defs
+     id="defs2">
+    <font
+       horiz-adv-x="830"
+       id="MySVGFont">
+      <font-face
+         id="font-face97"
+         alphabetic="0"
+         descent="-1016"
+         ascent="1146"
+         panose-1="2 0 5 3 0 0 0 0 0 0"
+         units-per-em="1000"
+         font-family="slave" />
+      <missing-glyph
+         id="missing-glyph99"
+         d="M33 0V666H298V0H33ZM66 33H265V633H66V33Z"
+         horiz-adv-x="364" />
+      <glyph
+         id="glyph101"
+         d="M873 424Q882 440 877 457Q858 518 825 567T751 648T661 701T560 729T455 731T350 710Q265 683 194 630T72 498T6 322T18 105Q31 52 58 6T121 -77T201 -141T293 -187T393 -213T495 -220T595 -205Q678 -184 742 -135T849 -7T899 179T873 424ZM790 463Q783 448 787 434Q792 419 796 403Q820 306 821 224T804 84T750 -18T672 -89T576 -128Q517 -141 457 -140T338 -118T231 -65T146 17T95 125Q74 219 83 297T129 440T219 549T339 621Q405 648 472 652T601 639T712 576T790 463ZM985 793T980 799T966 805T951 800Q526 400 3 -254Q-2 -260 -1 -268T6 -282T21 -286T35 -279Q556 373 978 771Q984 776 984 784Z"
+         horiz-adv-x="1096"
+         glyph-name="zero"
+         unicode="0" />
+      <glyph
+         id="glyph103"
+         d="M-3 482T10 474T38 468T62 484Q98 537 120 568T150 609T172 634T192 655Q168 345 188 -119Q189 -134 200 -145T227 -155T253 -143T263 -116Q240 428 278 773L294 911L211 800Q178 755 156 729T124 693T102 669T65 620T0 526Q-9 513 -6 498Z"
+         horiz-adv-x="424"
+         glyph-name="one"
+         unicode="1" />
+      <glyph
+         id="glyph105"
+         d="M47 400T62 401T87 415T95 443Q92 469 92 495Q92 539 101 578T125 643T157 689T192 717T223 726Q234 726 245 719T269 694T289 641T297 555Q292 514 267 464T209 368T137 262T68 145T17 14T0 -133Q1 -149 12 -159T39 -170T65 -158T75 -130Q73 -76 87 -22T125 80T179 173T241 265T300 355T347 450T372 549V551V553Q373 666 333 733T223 801Q169 801 122 762T46 652T17 497Q17 466 21 434Q22 419 34 410ZM5 -108T2 -123T6 -152T30 -168Q55 -174 126 -167T261 -160T348 -180Q359 -190 374 -190T400 -178T410 -151T398 -125Q366 -95 307 -85T197 -78T98 -89T46 -95Q31 -92 18 -100Z"
+         horiz-adv-x="537"
+         glyph-name="two"
+         unicode="2" />
+      <glyph
+         id="glyph107"
+         d="M56 519T69 525T88 545T88 573Q80 591 79 610Q77 653 116 689T205 727Q223 728 239 724T271 709T300 678T320 628T330 556Q334 446 286 416Q162 335 163 328L171 284L175 257Q175 257 194 253Q227 247 276 175Q317 113 337 39T339 -80Q331 -99 313 -112T261 -131T167 -124T28 -78Q14 -72 0 -78T-19 -97T-20 -125T0 -145Q169 -213 270 -202Q373 -191 406 -107Q431 -42 415 38Q399 115 357 186T263 296Q328 339 367 408Q407 479 403 559Q400 620 383 667T338 744T276 787T202 800Q125 797 64 742Q5 687 7 607Q8 574 22 543Q28 530 42 525Z"
+         horiz-adv-x="547"
+         glyph-name="three"
+         unicode="3" />
+      <glyph
+         id="glyph109"
+         d="M368 833Q358 834 349 830T334 818T327 800Q287 449 311 -101Q312 -116 323 -126T350 -137T376 -125T386 -98Q363 446 401 792Q403 807 394 819T368 833ZM181 810T171 811T152 809T137 797T129 778Q121 704 113 654T91 563T69 500T38 430T0 350Q-6 336 -1 322T19 301T48 300T69 320Q81 348 104 398T137 472T162 541T186 640T204 770Q205 780 201 789T189 804ZM623 365Q623 373 620 380T611 391T599 399T584 402Q491 399 408 395T220 384T32 372Q22 372 14 367T1 352T-3 333Q-2 318 9 308T36 297Q121 302 225 308T411 319T587 327Q602 327 613 338T623 365Z"
+         horiz-adv-x="745"
+         glyph-name="four"
+         unicode="4" />
+      <glyph
+         id="glyph111"
+         d="M71 792T56 794T29 788T13 764Q4 711 6 669T14 584T13 427Q12 412 22 400T48 387Q58 386 66 390T81 403T87 422Q93 500 92 558T87 636T82 690T87 751Q89 767 80 779ZM-8 35T-15 22T-18 -7T0 -30Q121 -96 239 -89Q339 -83 417 -28T535 117T570 313Q562 439 510 508Q472 557 416 574T306 584T194 550T97 502T27 454Q15 445 13 430T20 402T45 388T73 395Q111 424 161 450T266 494T371 506T450 462Q489 412 495 308Q499 243 481 185T428 84T343 15T235 -14Q138 -20 36 36Q22 43 7 39ZM453 762Q453 777 442 788T414 798Q323 795 241 798T48 795Q33 795 23 783T12 756T25 731T52 720Q158 727 238 724T417 723Q424 723 431 726T443 735T450 747T453 762Z"
+         horiz-adv-x="742"
+         glyph-name="five"
+         unicode="5" />
+      <glyph
+         id="glyph113"
+         d="M80 360Q154 433 239 457T397 461T524 384Q581 325 600 242T590 65Q569 2 531 -40T441 -103T330 -123T204 -100Q196 -98 189 -95Q132 -75 92 -31T33 71T6 186T1 306Q5 421 35 509Q54 561 100 619T208 723T339 790T473 790Q564 758 600 638Q605 624 598 610T576 592T547 594T529 617Q503 700 449 719Q399 736 325 701T188 604T106 484Q88 432 80 360ZM76 243Q81 142 115 71T215 -25Q221 -27 227 -29Q338 -66 413 -36T519 88Q544 174 523 243T445 354Q411 380 370 389T281 392T181 348T82 249Q80 246 76 243Z"
+         horiz-adv-x="758"
+         glyph-name="six"
+         unicode="6" />
+      <glyph
+         id="glyph115"
+         d="M-11 673T-17 687T-19 715T0 737Q69 771 145 783T286 791T414 781T537 777T645 800L772 855L690 743Q572 583 418 334T145 -144Q138 -158 123 -162T95 -160T76 -138T78 -110Q184 93 317 313T569 703Q509 695 458 698T351 705T245 711T139 704T33 670Q19 663 4 668ZM685 401T685 391T681 373T668 359T649 353Q557 350 474 346T287 335T98 323Q83 323 72 333T59 359T68 385T94 398Q165 402 245 407T378 415T502 421T647 428Q657 428 665 423T679 410Z"
+         horiz-adv-x="904"
+         glyph-name="seven"
+         unicode="7" />
+      <glyph
+         id="glyph117"
+         d="M140 296L89 278H113Q60 240 32 188T1 82T13 -21T56 -111Q66 -125 78 -137Q106 -167 149 -183T233 -201T315 -200T381 -190T417 -180Q478 -152 516 -112T566 -26T575 64T550 154Q535 188 512 220T462 277T405 320Q445 342 480 368T547 429T598 505T615 593Q613 639 598 675T560 735T506 774T443 795T377 800Q321 797 269 780T181 734Q126 690 104 625T94 494T150 374Q172 346 202 325Q168 312 140 296ZM305 353Q244 373 207 420Q158 479 163 555T227 677Q250 696 293 710T380 727Q537 733 542 590Q544 546 506 497T415 411T305 353ZM309 278Q349 276 402 231T484 125Q557 -36 388 -113Q369 -120 323 -124T216 -122T131 -87Q88 -42 76 24Q66 82 87 135T166 226Q222 263 309 278Z"
+         horiz-adv-x="802"
+         glyph-name="eight"
+         unicode="8" />
+      <glyph
+         id="glyph119"
+         d="M429 365Q350 280 181 311Q120 322 75 374T11 491T4 613Q17 688 84 744T227 800Q286 800 343 771T442 689T491 573Q496 535 499 482Q506 365 506 243T499 53Q490 -10 464 -61T400 -145T318 -193T227 -202Q150 -191 97 -124T31 54Q29 69 38 81T63 95T91 87T105 62Q115 -28 152 -74T237 -128Q298 -137 354 -87T425 64Q437 145 429 365ZM417 567Q411 607 381 644T309 703T227 725Q181 725 134 685T77 600Q70 559 85 511T131 427T194 385Q234 378 266 378Q299 378 323 384T370 410T405 468T417 567Z"
+         horiz-adv-x="673"
+         glyph-name="nine"
+         unicode="9" />
+    </font>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.078763"
+     inkscape:cx="344.22097"
+     inkscape:cy="727.78705"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       style="font-size:4.76249981px;font-family:slave;fill:#000000;stroke-width:0.26458332"
+       x="30.115225"
+       y="63.690147"
+       id="text124">!&quot;#$%&amp;'()*+,-./0123456789:;&lt;&gt;?</text>
+    <text
+       style="font-size:4.76249981px;font-family:slave;fill:#000000;stroke-width:0.26458332"
+       x="30.115225"
+       y="79.565147"
+       id="text126">@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_</text>
+    <g
+       id="g205">
+      <g
+         id="g197">
+        <g
+           id="g190">
+          <g
+             id="g184">
+            <g
+               id="g179">
+              <g
+                 id="g175">
+                <text
+                   style="font-size:4.76249981px;font-family:slave;fill:#000000;stroke-width:0.26458332"
+                   x="30.115225"
+                   y="95.440147"
+                   id="text128">`abcdefghijklmnopqrstuvwxyz|{}~</text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text
+       style="font-size:4.76249981px;font-family:slave;fill:#000000;stroke-width:0.26458332"
+       x="30.115225"
+       y="111.31515"
+       id="text130"></text>
+    <text
+       style="font-size:4.76249981px;font-family:slave;fill:#000000;stroke-width:0.26458332"
+       x="30.115225"
+       y="127.19015"
+       id="text132"> ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿</text>
+    <text
+       style="font-size:4.76249981px;font-family:slave;fill:#000000;stroke-width:0.26458332"
+       x="30.115225"
+       y="143.06514"
+       id="text134">ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞß</text>
+    <text
+       style="font-size:4.76249981px;font-family:slave;fill:#000000;stroke-width:0.26458332"
+       x="30.115225"
+       y="158.94014"
+       id="text136">àáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿ</text>
+  </g>
+</svg>
