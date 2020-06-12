@@ -51,6 +51,30 @@ Ihr Twitter Team schreibt, dass das 600Mbit wieder eingeschaltet werde und dass 
 YAY, mein Internet geht wieder
 
 
+Fazit:
+
+Die ganze Problematik übersteigt die Möglichkeiten des Frontdesks. Allenfalls wurden sämtlichen beteiligten Frontdesk Mitarbeiter allenfall auch über irgendwelche Technologien stress induziert, sowohl bei der Post als auch bei der UPC, also sind unschuldig, aber man sollte das Problem angehen.
+
+Dann hätte ich eigentlich nichts gegen 100Mbit Upstream mit einem Gigabit Modem, da würde aber vermutlich wenn ich richtig liege wieder die mutmasslich maliscious Malware aufgespielt und wir wären wieder gleich weit. Sobald ich die Retour Etikette habe werde ich das nicht funktionierende 3. Gigabit Modem retournieren, da könnte man ja allenfalls mal mit JTAG-Heckserei überprüfen ob meine Hypotese stimmt. Falls man das z.B. in den Netzen der UPC mit z.B. Wiresark überprüfen möchte können wir den Vorgang "Modemwechsel" allenfalls auch zeitlich absprechen. Diese Entscheidung überlasse ich ihnen
+
+
+Was ausserdem geschehen ist:
+
+über mir nicht so ganz durchsichige Kanäle wurden mir Dinge die ein Staatsanwalt im Kanton Aargau verbockt hat zugespielt, da habe ich zwar das Mail geschrieben aber nicht abgeschickt weil der sich durch die böse böse Wahrheit bedroht fühlen würde und dann wieder eine "kleine Verwahrung"-Karte spielen: https://de.wikipedia.org/wiki/Diskussion:Schweizer_Nachrichtendienste#Durchdringung_der_Schweizer_Bildungslandschaft_und_Autismus_Fr%C3%BCherkennung 
+dann würde ich wieder in der Psychiatrie landen und virtuel geköpft bzw mit intelligenzmindernder Psychopharmaka gehead-shotted. Ausserdem wurden noch Dinge zu einem Verstorbenen kollegen HackersCardgame::m46 eingeblendet und mehrfacht versucht mich dazu zu "motivieren" vom Balkon aus dem 10. Stock zu springen und z.B. auch mit der Existenzangst-Karte gedroht und noch ganz vieles
+
+Dies wären alles zusätzliche Attribute auf dem Objekt "Modem Wechsel" die gänzlich ausserhalb der UPC liegen und es eigentlich vorallem auf mich abgesehen habe. Lustigerweise ist das jetzt schlimmer geworden wo ich so zeugs wie: "NSA/CIA/Army sind wahrscheinlich selber von mächtigen Studentenverbindnugen unterwandert worden" sobald ich da richtige beweise habe werde ich diese lauthals auf Twitter und in meinen vielen HackersCardgame-Repositories anprangern.
+
+https://github.com/braindef/HackersCardgame10
+hackerscardgame.ch
+0x8.ch/HackersCardgame10
+
+
+MFG
+Marc jr. Landolt @FailDef @Braindef v/o Floppy (Pfadiname)
+
+
+
 
 
 
