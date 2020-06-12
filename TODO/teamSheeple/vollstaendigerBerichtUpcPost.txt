@@ -1,0 +1,56 @@
+
+
+TODO's für Security Team der UPC:
+
+- FTP(?) Server mit Firmware Images für Gigabit Modem überprüfen
+ Da das Gigabit Modem nur beim ersten Mal einstecken kurz grün geleuchtet hat könnte es sein, dass da irgend eine falsche Firmware drauf gespielt wurde. Danach hat es immer nur noch weiss geleuchtet. Admin Konsole ging, da war Internet auf grün obwohl es nicht verbunden war (also definitiv ein Bug), Telefonie-Teil war nicht grün.
+
+- Sind die Enpoints / Mitarbeiter Rechner allenfalls mit irgendwelchem Behavioral Sciences / Manipulations Malware infiziert? Redet mit den Mitarbeitern, ausserdem der Talk von Linus Neumann @CCC "Gehirne Hacken" könnte man allenfalls mal als Pflichtlektüre zeigen in einer internen Weiterbildung. Das ganze geht aber allenfall auch noch ein bisschen #HackersCardagme::t1 aber da habe ich selber noch keine Beweise und das würde allenfalls auch eine Massenpsychose verursachen und Ängste schüren.
+
+
+
+
+TODO's für Frontdesk:
+
+Sagt den Mitarbeitern dass es keine Schande ist, wenn ein Kunde mehr weiss über Informatik / HFC, insbesondere wenn der wie ich auch bei einer Kabelmodem Firma gearbeitet hat und einige Jahre 3-4 Jahrs Lehrlinge zu HFC ausgebildet hat (Überbetrieblicher Kurs)
+
+Dann wäre interessant zu wissen ob der Computer insgeheim z.B. mit Werbebannern oder irgendwelchen Dingen die sonst nicht aufblinken jeweils so etwas "Kündigungsandrohung" loopt 
+https://0x8.ch/HackersCardgame10/jpg/EN/#t10 bzw t23 bzw. t32 der sowohl beim UPC Mitarbeiter als auch beim Kunden den Stresspegel erhöht und die ganze sache unnütz verkompliziert
+-> Falls Ja sollte Euer Vorgesetzte das mit dem Security Team analysieren, ich hatte aus Angst und Scham solches immer geheim gehalten. Wenn man etwas vertuscht oder "geheim hält" dann ist es jeweils super schwierig den Fehler zu finden. Sollte Euch mit "der spinnt doch" und Psychiatrie gedroht werden meldet Euch bei mir bzw. der CCC Congress hat auch eine Anlaufstelle für "probleme mit der Psychiatrie". Das mit dem "geheimhalten" ist auch nicht Eure Schuld, ich hab das mal versucht für 10 Jährige zu erklären: https://twitter.com/FailDef/status/1270303935052558336
+
+
+27. April:
+Ausfall UPC, Anruf, der Mitarbieter will das ich eine Gigabit-TV Box nehme, kann ich nicht weil ich Modem Modus brauche, irgendwann (später) entscheide ich mich dann dafür das Gigabit Modem doch zu ordern. Ausserdem wird versucht einem ein UPC Natelabo aufzuschwatzen, das führe ich auch detailliert aus im Telefongespräch, dass wenn die UPC wirklich gehackt ist, das das dann für mich ein Single Point of Failure wäre und man mich ganz vom Internet trennen könnte mit Zugriff nur auf UPC. So müsste bei dem Versuch den möchtegern Whitehat Hacker / möchtegern Whistleblower (ich) auch sein Salt Abo abschiessen, womit man dann sehen würde, dass nicht UPC der Täter ist.
+
+
+18. Mai:
+Das erste Modem geht auf dem Postweg zwischen Härkingen und der Telli Post (5004) verloren: https://twitter.com/FailDef/status/1262303656138989568
+
+
+5. Juni:
+Das 2. Modem geht auch auf dem Postweg verloren, geht durch mehrere Hände (was verantwortungs diffusion erzeugen soll womit man dann sagen könnte, die mutmasslich falsche Firmware ist z.B. von Herrn Köst installiert worden, siehe TODO's für Security Team), eine Frau und dann soll ich das bei einem Herr Köst, Neuenburgerstrasse 9 holen. Dem traue ich nicht, Ich will eine saubere Beweiskette, melde dass das 2. Modem auch von der Post verschlampt wurde. Ich selber erhalte eine UPC-TV-Box einer anderen Person, öffne das Paket, sehe dass da kein Gigabit Modem drin ist, werde über irgend ein Stimulus-Response-Habit gesteuert den Strichcode der Post fort zu werfen (my bad)
+
+-> bis zu diesem Zeitpunkt ist klar, dass es nicht der Fehler der UPC ist, sondern der der Post. https://twitter.com/FailDef/status/1269166925227143168
+
+Ich denke aber schon lange darüber nach, ob die Pressemeldung "die US-Post fängt Pakete mit Cisco Devices ab um Malware drauf zu spielen bevor der Kunde das Gerät bekommt" nicht nur verschleiern soll, dass diese Geräte bereits ab werk Backdoors drin hat. https://twitter.com/FailDef/status/1269897204216541184
+
+
+9. Juni:
+ich bitte bei UPC darum, die Zeitschalt-Uhr die das alte Modem automatisch rauswirft abzuschalten, da ich das Modem nciht bekommen habe, dennoch wird es abgeschaltet: https://twitter.com/FailDef/status/1269913899735924736. Wenn wir grad bei Zabbix sind, all diejenigen die ihren Job bei der UPC ein bisschen besser verstehen möchten können mal versuchen ein Zabbix Monitoring auf einem Debian oder Ubuntu zu installieren. Das hilft einem spielerisch die Funktionsweise von Netzwerk-Equipment zu verstehen. Allenfalls habt ihr einen Autisten / Nerd mit Inselbegabung auf Informatik in Euerm bekanntenkreis, der wird das im normalfall hinkriegen und Euch auch helfen können.
+
+Auf mein Anruf wurde innerhalb einer Stunde das 600Mbit Modem wieder aktiviert. Ausserdem wird mir per Express das 3. Gigabit Modem zugschickt, das aber nicht funktioniert, (siehe TODO's Security Team Firmware Server)
+
+
+10. Juni:
+Mitarbeiter Mitrovic sagt es dauere 24h bis das alte Modem zurück gestellt wäre, ich reg mich ein bisschen darüber auf (HackersCardgame::InducedRage wird gegen mich gespielt, vielleicht auch gegen ihn), dass das jetzt plötzlcih nicht mehr 1h geht sondern 24h aber ich akzeptiere das so und warte. 24h später geht das immer noch nicht, gegen mich wurde zuvor ca. 10h die HackersCardgame::InducdedDepression gespielt (siehe Wikipedia Priming) und hätte dazu geführt, dass ich und der Mitarbeiter bei UPC uns eh in die Haare gekriegt hätten, also hab ich nicht angerufen und getwittert.
+
+11. Juni:
+Ihr Twitter Team schreibt, dass das 600Mbit wieder eingeschaltet werde und dass es eine Rückmeldung gibt
+
+12. Juni:
+YAY, mein Internet geht wieder
+
+
+
+
+
