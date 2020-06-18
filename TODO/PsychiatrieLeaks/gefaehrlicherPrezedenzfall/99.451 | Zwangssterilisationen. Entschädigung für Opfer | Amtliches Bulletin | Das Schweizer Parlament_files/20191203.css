@@ -1,0 +1,45 @@
+#pdc .external-link {
+  font-size: 0.875em;
+  line-height: 1.43em;
+  letter-spacing: 0.05em;
+  font-family: "Avenir Black";
+  margin-bottom: 15px;
+  position: relative;
+  border-bottom: 0;
+  display: block;
+}
+#pdc .external-link:before {
+  font-family: 'Parlament Icons';
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  position: absolute;
+  font-size: 1.5em;
+  position: relative;
+  display: inline-block;
+  padding-right: 10px;
+  line-height: 1.43em;
+  top: 6px;
+  margin-top: -6px;
+  content: "\e001";
+}
+#pdc .external-link:hover {
+  cursor: pointer;
+  border-bottom: none;
+}
+#pdc .external-link:hover {
+  color: #033840;
+  border-color: transparent;
+}
+#pdc .external-link:hover:before {
+  color: #807641;
+}
+#pdc .external-link:active {
+  color: #1e1e1e;
+  border-color: transparent;
+}
+#pdc .external-link:active:before {
+  color: #807641;
+}
