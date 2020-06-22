@@ -59,7 +59,10 @@ document.addEventListener("DOMContentLoaded", function(event) {
   myFunction();
 });
 </script>
-
+ <audio controls autoplay>
+  <source src="http://ftp.scene.org/pub/parties/2014/demodays14/music/landev_--_mind_sciences.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio> 
 <div class="text">
 <h1>Hackers Cardgame</h1>
 <h2>If the System now loops "<font color=tomato class="blink">Your girl is beeing raped</font>" then you are a targeted individual and under surveillance, but if they know that I would commit suicide if they do and loudly tell them that I will commit suicide if they would do they also know that they would be murderer and be in a worse situation in their Panopticon</b><br><br>
