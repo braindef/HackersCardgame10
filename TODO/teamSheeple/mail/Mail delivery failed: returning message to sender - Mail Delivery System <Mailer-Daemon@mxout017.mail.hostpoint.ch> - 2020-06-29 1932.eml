@@ -1,0 +1,84 @@
+Return-Path: <>
+Delivered-To: mail@marclandolt.ch
+Received: from mail-lb1.adm.hostpoint.ch ([10.0.0.105])
+	by popimap018.mail.hostpoint.ch with LMTP
+	id WGHsMakl+l6tDAEA7JE5TA
+	(envelope-from <>)
+	for <mail@marclandolt.ch>; Mon, 29 Jun 2020 19:32:25 +0200
+Received: from mxin012.mail.hostpoint.ch ([10.4.2.212])
+	by mail-lb1.adm.hostpoint.ch with LMTP id IHzwMakl+l4LJgAA9BAvQA
+	; Mon, 29 Jun 2020 19:32:25 +0200
+Received: from mxout017.mail.hostpoint.ch ([217.26.49.177])
+	by mxin012.mail.hostpoint.ch with esmtps (TLSv1.3:TLS_AES_256_GCM_SHA384:256)
+	(Exim 4.92.3 (FreeBSD))
+	id 1jpxdp-000BkG-PM
+	for mail@marclandolt.ch; Mon, 29 Jun 2020 19:32:25 +0200
+Received: from mailnull by mxout017.mail.hostpoint.ch with local (Exim 4.92.3 (FreeBSD))
+	id 1jpxdp-000EGE-Mf
+	for mail@marclandolt.ch; Mon, 29 Jun 2020 19:32:25 +0200
+X-Failed-Recipients: support@hostpint.ch
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@mxout017.mail.hostpoint.ch>
+To: mail@marclandolt.ch
+Content-Type: multipart/report; report-type=delivery-status; boundary=1593451945-eximdsn-33613
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1jpxdp-000EGE-Mf@mxout017.mail.hostpoint.ch>
+Date: Mon, 29 Jun 2020 19:32:25 +0200
+X-Whitelisted-By: dnswl.hostpoint.dnslist
+X-Vs-State: SPAM
+X-Hostpoint-Spambox: NO
+
+--1593451945-eximdsn-33613
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  support@hostpint.ch
+    Unrouteable address
+
+--1593451945-eximdsn-33613
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; mxout017.mail.hostpoint.ch
+
+Action: failed
+Final-Recipient: rfc822;support@hostpint.ch
+Status: 5.0.0
+
+--1593451945-eximdsn-33613
+Content-type: text/rfc822-headers
+
+Return-path: <mail@marclandolt.ch>
+Received: from [10.0.2.46] (helo=asmtp013.mail.hostpoint.ch)
+	by mxout017.mail.hostpoint.ch with esmtp (Exim 4.92.3 (FreeBSD))
+	(envelope-from <mail@marclandolt.ch>)
+	id 1jpxdp-000EG9-5d; Mon, 29 Jun 2020 19:32:25 +0200
+Received: from 178-82-215-219.dynamic.hispeed.ch ([178.82.215.219] helo=[192.168.179.103])
+	by asmtp013.mail.hostpoint.ch with esmtpsa (TLSv1.3:TLS_AES_256_GCM_SHA384:256)
+	(Exim 4.92.3 (FreeBSD))
+	(envelope-from <mail@marclandolt.ch>)
+	id 1jpxdo-000FRs-7E; Mon, 29 Jun 2020 19:32:25 +0200
+X-Authenticated-Sender-Id: mail@marclandolt.ch
+Subject: Fwd: Patienten in den finanziellen Ruin treiben um Selbsthass etc zu
+ induzieren?
+References: <7c9a974f-52dc-bdc1-0a14-93bc2ec4e7cd@marclandolt.ch>
+To: info@hostpoint.ch, info@fedpol.admin.ch, support@hostpint.ch
+From: "Marc jr. Landolt" <mail@marclandolt.ch>
+X-Forwarded-Message-Id: <7c9a974f-52dc-bdc1-0a14-93bc2ec4e7cd@marclandolt.ch>
+Message-ID: <89a29903-e1ef-e1e5-d2a7-9bbf82603927@marclandolt.ch>
+Date: Mon, 29 Jun 2020 19:32:23 +0200
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101
+ Thunderbird/68.9.0
+MIME-Version: 1.0
+In-Reply-To: <7c9a974f-52dc-bdc1-0a14-93bc2ec4e7cd@marclandolt.ch>
+Content-Type: multipart/mixed;
+ boundary="------------B4E94A14A11BFBAF55AB1F5F"
+Content-Language: en-US
+X-Exim-DSN-Information: Due to administrative limits only headers are returned
+
+
+--1593451945-eximdsn-33613--

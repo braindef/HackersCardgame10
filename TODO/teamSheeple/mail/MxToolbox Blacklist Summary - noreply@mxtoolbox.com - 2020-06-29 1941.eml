@@ -1,0 +1,534 @@
+Return-Path: <bounce+f2c791.9c403-2009=marclandolt.ch@mxtoolbox.com>
+Delivered-To: mail@marclandolt.ch
+Received: from mail-lb1.adm.hostpoint.ch ([10.0.0.105])
+	by popimap018.mail.hostpoint.ch with LMTP
+	id COLKBPYn+l7zZgEA7JE5TA
+	(envelope-from <bounce+f2c791.9c403-2009=marclandolt.ch@mxtoolbox.com>)
+	for <mail@marclandolt.ch>; Mon, 29 Jun 2020 19:42:14 +0200
+Received: from mxin015.mail.hostpoint.ch ([10.4.2.215])
+	by mail-lb1.adm.hostpoint.ch with LMTP id 0MbXBPYn+l7nVQAA9BAvQA
+	; Mon, 29 Jun 2020 19:42:14 +0200
+Received: from rs222.mailgun.us ([209.61.151.222])
+	by mxin015.mail.hostpoint.ch with esmtps (TLSv1.3:TLS_AES_256_GCM_SHA384:256)
+	(Exim 4.92.3 (FreeBSD))
+	(envelope-from <bounce+f2c791.9c403-2009=marclandolt.ch@mxtoolbox.com>)
+	id 1jpxnF-0003kn-Oc
+	for 2009@marclandolt.ch; Mon, 29 Jun 2020 19:42:14 +0200
+DKIM-Signature: a=rsa-sha256; v=1; c=relaxed/relaxed; d=mxtoolbox.com; q=dns/txt;
+ s=mailo; t=1593452533; h=Content-Transfer-Encoding: Mime-Version:
+ Content-Type: Subject: From: To: Message-Id: Sender: Date:
+ List-Unsubscribe: List-Unsubscribe-Post;
+ bh=5lRqULhz2RTkZu+DQk4SROsEXJkvWdQu9Ruuu3oEXeA=; b=hyH1fYNRJIXR0PU1Zz/j9nFiEjaOAIgYBMkKeO/VtZwsPabg1b/lux5VatB8ugKZOr5Sz3qK
+ m+RCCKesgbngUQOSqHktlt9PYv3fSVSTHRs3zB0Y9M6SRL2PTI99k20pk8RApFKh/4rOnOJJ
+ 0rY2XISaqVPn3uyfra0ld6TAaF8=
+X-Mailgun-Sending-Ip: 209.61.151.222
+X-Mailgun-Sid: WyIzNTM1NCIsICIyMDA5QG1hcmNsYW5kb2x0LmNoIiwgIjljNDAzIl0=
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+List-Unsubscribe: <https://link.mailgun.com/u/eJwVzDEOwyAMQNHTlBHZBGwYGBiSeySmUSpBkVIqpbcPXZ_0f45BLEzqFQ0YADIB2aIDjXpmC3NiTAhIaTEPC_XqrZWtXVpaVUcUEqGc-RnI7Rs5j9MOPgsBex6gzrGF8C_XU8r6zq10LYfq8fOtw343f-Mk1Q>
+Received: by luna.mailgun.net with HTTP; Mon, 29 Jun 2020 17:41:50 +0000
+Date: Mon, 29 Jun 2020 17:41:50 +0000
+Sender: noreply@mxtoolbox.com
+Message-Id: <20200629174150.1.E740EA71A1016AF2@mxtoolbox.com>
+X-Mailgun-Tag: summary
+To: 2009@marclandolt.ch
+From: noreply@mxtoolbox.com
+Subject: MxToolbox Blacklist Summary
+Content-Type: text/html; charset="ascii"
+Mime-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+X-Vs-State: LEGIT
+X-Forwarded-Original-Recipient: 2009@marclandolt.ch 
+X-Original-To: 2009@marclandolt.ch
+X-Hostpoint-Spambox: NO
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8=
+" />
+    <title>MxToolbox Email</title>
+   =20
+
+
+</head>
+<body>
+    <table style=3D"width:100%; font-family:'Century Gothic', Arial, sans-s=
+erif; font-size: 12px;">
+        <tbody>
+            <tr>
+                <td>
+                    <table style=3D"width: 600px; margin-left: auto; margin=
+-right: auto; margin-top: 20px; margin-bottom: 20px;" cellpadding=3D"0" cel=
+lspacing=3D"0">
+                        <tbody>
+
+
+
+
+                            <!-- HEADER -->
+                            <tr>
+                                <td style=3D"background-color: #FFFFFF">
+                                    <table cellpadding=3D"5" style=3D"width=
+: 100%" cellspacing=3D"0">
+                                        <tr>
+                                            <td width=3D"50%"><a href=3D"ht=
+tp://email.mxtoolbox.com/c/eJxVzTsOwyAQBNDTQIkWzCcUFBT2PdglEZEgRDaWnNuHlJGm=
+Gmne5OBJw8KfQYECsMpLp6UBIcXqNKzRyShB2rgppqFdo_eK_RLUGy_B-JtTd5y7bJJFnafxQE8=
+GKWEmw2soY7wPtkSmtpl_YJ-n4H9u2qmmV-51CCp8hONss_t8AWcDLz0" style=3D"text-dec=
+oration: none;"><img src=3D"https://images.mxtoolbox.com/public/images/logo=
+-2x.png" alt=3D"MxToolbox Logo" Style=3D"padding: 0px; border: 0px; display=
+: block; width: 275px; height: 68px;" /></a></td>
+                                            <td width=3D"50%" style=3D"text=
+-align: right; font-size: 16px; color: #777777; font-weight: bold;">THE EXP=
+ERTS IN EMAIL DELIVERABILITY</td>
+                                        </tr>
+                                        <tr style=3D"background-color: #EC9=
+802; font-size: 16px; font-weight: bold; color: #FFFFFF;">
+                                            <td>MxToolbox Blacklist Summary=
+</td>
+                                            <td style=3D"text-align: right;=
+">
+                                                <span>
+<span title=3D'6/22/2020 12:00:00 AM'>6/22/2020</span> - <span title=3D'6/2=
+9/2020 12:00:00 AM'>6/29/2020</span>                                       =
+         </span>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+
+
+
+
+
+                            <!-- MENU -->
+                                <tr style=3D"background-color: #F5F5F5; bor=
+der-bottom: 1px solid #DDDDDD; margin-bottom: 5px;">
+                                    <td>
+                                        <table width=3D"100%">
+                                            <tbody>
+                                                <tr>
+                                                    <td align=3D"center" st=
+yle=3D"padding-top: 7px; padding-bottom: 7px;">
+                                                        <a href=3D"http://e=
+mail.mxtoolbox.com/c/eJxVUEuOgzAMPQ3sQI4TSLNggdT2CrNEJqQlaj5VCJrO7Sdo2sVI3v=
+j9ZL9lUFoAr-2AgAA9KiYF66Bl7UUKuIySjQxYP16xEuBfOUY3x1ero6_X4kXo6YSLML26dboji=
+ULxGWY8ceKydsOa83Or-Fjhtcy_gGOPweaYbLhX_LpnP21xT9pU_Dw70g9ntzxtu_eUfirsD4Em=
+_yR7D0XiX9-U9fomvFns7gtsPFn3UceQTcgFvSVjps-PbzabdBi-YnrMJvwlHVLJl14J3kipoCn=
+tQEPAsGGzxBudSCuOdSqFgTo6oaQdhSW63Oq1zsP73l-PHGxZ" style=3D"text-decoration=
+: none; color: #d48037; font-size: 13px">Dashboard</a>
+                                                    </td>
+                                                    <td align=3D"center" st=
+yle=3D"padding-top: 7px; padding-bottom: 7px;">
+                                                        <a href=3D"http://e=
+mail.mxtoolbox.com/c/eJxVUEuOgzAMPQ3sQI4TSLNggdT2CrNEJqQlaj5VCJrO7Sdo2sVI3v=
+j9ZL9lUFoAr-2AgAA9KiYF66Bl7UUKuIySjQxYP16xEuBfOUY3x1ero6_X4kXo6YSLML26dboji=
+ULxGWY8ceKydsOa83Or-Fjhtcy_gGOPweaYbLhX_LpnP21xT9pU_Dw70g9ntzxtu_eUfirsD4Em=
+_yR7D0XiX9-U9fomvFns7gtsPFn3UceQTcgFvSVjps-PbzabdBi-YnrMJvwlHVLJl14J3kipoCn=
+tQEPAsGGzxBudSCuOdSqFgTo6oaQdhSW63Oq1zsP73l-PHGxZ" style=3D"text-decoration=
+: none; color: #d48037; font-size: 13px">Monitors</a>
+                                                    </td>
+                                                    <td align=3D"center" st=
+yle=3D"padding-top: 7px; padding-bottom: 7px;">
+                                                        <a href=3D"http://e=
+mail.mxtoolbox.com/c/eJxVUEluwzAMfI19s0EtsaKDDwaafKHHgJbkWKiWQKbR9PeV0eRQgJ=
+fhLCDHjtpIEK0fOXCAgWumJDtBz_qLknCZFJsYsGG68kZCfFLOYc7P3uTYrqMyCnDWWqrZSHtig=
+i8Ll2c7WCX0groN40r02BoxNfxa51_AgXPylItP9wpSJr94g-RzqpbrTvG25b0Y14iPOaD5Cn6j=
+27bHiOWn4cMhMBgf6O-pSuLzG8msLyI66_dY1y6iD291TuQS1e1SnLu9f36x5Mph-Mzla3bpL-m=
+QKmEHLUWnlIautgUdAuMdmxVf8IxGC96WWiDooyMsJmCyOVBv1pbG172_q7Jy4A" style=3D"t=
+ext-decoration: none; color: #d48037; font-size: 13px">Notifications</a>
+                                                    </td>
+                                                    <td align=3D"center" st=
+yle=3D"padding-top: 7px; padding-bottom: 7px;">
+                                                        <a href=3D"http://e=
+mail.mxtoolbox.com/c/eJxVkE1uhDAMhU8DO5CTAGkWLJA6XKFL5ITMEE1-RiGo9PZNVGZRyQ=
+vb77Nlv3UUqgNWm5ECBRioILwjPbSkvfEObhMnEwEyTDOtOnBnCsHKcLYquHobEbhAqmin1Z1KO=
+RAkpNcwSN0zIhit7bil9NorNlV0zvFvQamDNylE4x-52Mye859CsvlIbtnDEZWu2Ke0qJ42y8t-=
+OIeFGQqg0L3QPHxG3PmNSW2X4PRqDpfb2qGxbzr4pH3K3XvUenk_fKlJxzLwFeJTav-3qaCcrYP=
+oWMO5gCZbBQ0CoQ2RnN7xA1V5M2b3QBSDMCqLfg02tWqr03jd-wuCRHDq" style=3D"text-de=
+coration: none; color: #d48037; font-size: 13px">History</a>
+                                                    </td>
+                                                    <td align=3D"center" st=
+yle=3D"padding-top: 7px; padding-bottom: 7px;">
+                                                        <a href=3D"http://e=
+mail.mxtoolbox.com/c/eJxVULuOwyAQ_Bq7s7WAD0LhwlKSX7gyWjCOUXhEGCu-vz_QJcVJ28=
+zszGh35lHqAVhrRwoUgFNJxEC-oCf9RQxwmQSZCBA-XWkzgD9yjE7Fo9fRt-uoJCxMMT6f6KJk8=
+QtupESJA0gujGrduOb83Bo2NfRa5l9AxTHYHJMN9wJeS2XQusXFV4_b86gmdt2zv21xT9o07Kwc=
+6oezW75tu_eYfhrKq0Cjf6K9hyLxxwuzXt8Lb2a7-0KbGv1Rx5BNyIVdkjG3z-_vbTapGr5jeig=
+T_pKqVLCZy4F1QkjoSmvQIRDaESXogifUktE2lSJB1q4waYdhji73em3z-L73F20VdI4" style=
+=3D"text-decoration: none; color: #d48037; font-size: 13px">Mail Flow</a>
+                                                    </td>
+                                                    <td align=3D"center" st=
+yle=3D"padding-top: 7px; padding-bottom: 7px;">
+                                                        <a href=3D"http://e=
+mail.mxtoolbox.com/c/eJxVkEFuhDAMRU8DO5DjBDJZsEDqcIUukRMyBU1CRiGo9PYNKrOo5I=
+3_f7bsP3XKCODl0iEgQIuKScEaqFl9lwLuvWQ9A9b2AxYC_JFCcDoctQm-nDs9gRCGiKO66Raxu=
+T30JKw0pBqJwpaum1N6bQXvCxxy_VuQ-32zseDDnvy4hT0aW_AP7cg83bKlcdu9p_hTYHsChvyL=
+lq81I_74pmTmy_B2WnafZetpcW86rMmuKauPaO34_u5yk43nwGeIT23Xv00nKvnUKsErKRVUORe=
+oCBhWTEt80I2M4ljGHBWoMw2KxtE6BZdqM5epu-79BSgwamA" style=3D"text-decoration:=
+ none; color: #d48037; font-size: 13px">Settings</a>
+                                                    </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </td>
+                                </tr>
+                                                            <tr>
+                                    <td class=3D"ad-EMAIL-DMARC-AD">
+                                        <table style=3D"width: 100%; font-f=
+amily: Arial, Helvetica, sans-serif; background-color: #2566b1;">
+	<tbody>
+		<tr>
+			<td style=3D"padding: 15px;">
+			<h3 style=3D"font-size: 14pt; margin: 0; color: #FFFFFF; text-align: cen=
+ter;">DMARC is the key to improving <span style=3D"color: #ffa854">Email De=
+liverability</span>!</h3>
+
+			<p style=3D"color: #DDDDDD;">Email is the key to your customer communica=
+tion strategy. But, what is your email reputation?</p>
+
+			<h4 style=3D"color: #ffffff; margin-bottom: 0;">MxToolbox <span style=3D=
+"color: #ffa854">Delivery Center</span> gives you:</h4>
+
+			<ul style=3D"color: #ffffff; list-style: circle; font-style: italic;">
+				<li style=3D"padding: 3px 0;">Who is sending phishing email purporting =
+to be from your domain</li>
+				<li style=3D"padding: 3px 0;">What is the reputation of your domains an=
+d delegated IPs</li>
+				<li style=3D"padding: 3px 0;">Where other senders are and What their re=
+putations are</li>
+				<li style=3D"padding: 3px 0;">How your SPF, DKIM and DMARC setup is per=
+forming</li>
+				<li style=3D"padding: 3px 0;"><span style=3D"color: #ffa854">What</span=
+> on-going maintenance you need to maintain and improve your email delivera=
+bility</li>
+			</ul>
+
+			<p style=3D"color: #DDDDDD;">Setting up and managing your DMARC configur=
+ation is the key to getting insight into your email delivery. MxToolbox is =
+the key to understanding DMARC.</p>
+
+			<p style=3D"text-align: center;"><a href=3D"http://email.mxtoolbox.com/c=
+/eJxVUMtuhDAM_JpwA-UBAQ4cogJSpe6lP4CyIVuiJgQlpmX_vkFiD5VsyR6Px4-5a1WJWWY6ii=
+nGnLakLkmFC1IMdYkHURNBMOFipKjE7gDv7d0fhfIuW7r6zquKE05ZM2tSy0a3pKTto2KSNYTgz=
+HYLwBYRE4iOyf4JpFwl34KfdwUxhbO25keHp9Ir6IDYuIObot-D0oj1dyvVtzURprg7J8MTUX4S=
+lHSbNF9rorjjV4JaroLTs9ldgrWTxr7YPmmvkNBH0Hp6nX1V09izIVoP-cWchpt4_8j7m_h8y0W=
+fhfQq3J7fkEFZuc7eQqGWDLprrT8wtm2F" style=3D"box-shadow: 1px 1px 3px #333333=
+; text-decoration: none; color: #fff!important; background-color: #d38336; =
+background-image: -webkit-linear-gradient(top,#f5973c,#c27830); background-=
+repeat: repeat-x; border-color: rgba(0,0,0,.1) rgba(0,0,0,.1) rgba(0,0,0,.2=
+5); text-shadow: 0 -1px 0 rgba(0,0,0,.25); background-position: 0; padding:=
+ 6px 12px; margin-bottom: 0; font-size: 14px; font-weight: 400; line-height=
+: 1.42857143; text-align: center; white-space: nowrap; vertical-align: midd=
+le; cursor: pointer; border: 1px solid transparent; border-radius: 4px;">Le=
+arn More</a></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+                                    </td>
+                                </tr>
+
+
+                            <!-- CONTENT -->
+                            <tr>
+                                <td style=3D"background-color:#F9F9F9;">
+                                    <!-- Content spacer by default -->
+                                    <table cellpadding=3D"10" style=3D"widt=
+h: 100%">
+                                        <tbody>
+                                            <tr>
+                                                <td>
+                                                   =20
+
+
+
+
+
+<table style=3D"width: 100%">
+    <tbody>
+        <tr>
+            <td>
+                <h4 style=3D"font-size: 14pt; line-height: 14pt;">Blacklist=
+ Summary Information</h4>
+                <table style=3D"width:100%" cellpadding=3D"5">
+                    <tbody>
+                        <tr style=3D"background-color:#FCFCFC; border-top: =
+1px solid #DDDDDD;">
+                            <td style=3D"text-align: left; width:80%">
+                                Avg MxRep Score
+                            </td>
+                            <td style=3D"text-align: center;">
+                                    <a href=3D"http://email.mxtoolbox.com/c=
+/eJxVUMtqwzAQ_Br7Emz0ihUdfDA0OTVQ2t7DeiXHopJlZJm6f1-5JIfCglbzWIbRrUJBeGlbRh=
+ghDVNUCnokNa3PUpBzJ2lHCW26CysE8VsKwfVhqzH4cmzZUWePochPqAbJ8US1JqwXQg0AiKVrx=
+5TmpeBdwS55_h3I_7e1dxbz8pnhJb_X7d3Ma4Jkw_SBIZoalnkr-GVN_raENaIp-EvvAL-cXdJt=
+Wb2H-FOwZhcg-BnsfcoSv31DwvFBeKPt6jNsPFj3VIcpmSlldIjG3J4FPNhk4m74C3R4NRCnwzX=
+n2dndIblulOCVlIpUuUFSAaGsor1kA5wAFWdlzKUStfcGER1MOrhU41im9hH7FwVSeWs" style=
+=3D"color: #d48037; text-decoration: none;">Learn More</a>
+                            </td>
+                        </tr>
+                        <tr style=3D"vertical-align:top; border-top: 1px so=
+lid #DDDDDD; background-color:#F8F8F8;">
+                            <td style=3D"text-align: left; width:80%">MxRep=
+ Change Since Last Report</td>
+                            <td style=3D"text-align: center;">
+                                    <a href=3D"http://email.mxtoolbox.com/c=
+/eJxVUMtqwzAQ_Br7Emz0cKTo4INJ41MDpe09rCU5FtXDyDJ1_75ySQ6Fhd2dnVmGUa2QDaKlaQ=
+kiCDEiMG_wEdW4vvAGXTqOO4ww63pSNMhtKQQ7hK2WwZVTKzjThB1HKWGkJ0WxokeiyakZmBqo4=
+qVtp5TmpaBdQfpc_x7k_W0drJF5-Mzwkvt1e9fzmiCZ4D9kiLqGZd4K2q_J3ZawRqkL-jJYkF_W=
+LOm2rM5B_CkI2wkS3Azm7jPFbd-Q5PQ4OK3M6jKsHRj7ZAeftE8ZHaPWt2cAj2vScRf8GTqcJ_B=
+3fXjVEP3hmm3tpF3IqWKioRXnAlU5SFQBwqTCAycjnEAKSsqYs0Vijw-itOBVsKmWU5nah_tfZy=
+R7vw" style=3D"color: #d48037; text-decoration: none;">Learn More</a>
+
+                            </td>
+                        </tr>
+                        <tr style=3D"background-color:#FCFCFC; border-top: =
+1px solid #DDDDDD;">
+                            <td style=3D"text-align: left; width:80%">Numbe=
+r of Blacklist Monitors</td>
+                            <td style=3D"text-align: center; font-weight: b=
+old; font-size: 12pt;">0</td>
+                        </tr>
+                        <tr style=3D"background-color:#F8F8F8; border-top: =
+1px solid #DDDDDD;">
+                            <td style=3D"text-align: left; width:80%">New L=
+istings Since Last Report</td>
+                            <td style=3D"text-align: center; font-weight: b=
+old; font-size: 12pt;">0</td>
+                        </tr>
+                        <tr style=3D"background-color:#FCFCFC; border-top: =
+1px solid #DDDDDD;">
+                            <td style=3D"text-align: left; width:80%">Email=
+ Frequency</td>
+                            <td style=3D"text-align: center;">
+                                <a href=3D"http://email.mxtoolbox.com/c/eJx=
+VUEluhDAQfI25gdrL4PjAASnDN1B7mYBi44mxFfL7mIg5pNWXrqreyg7KCODNOjBgAD1TVAp6g4=
+52dyngPko6UqD9ODEiIBw5Rq_j0ZkYmmXQUllxo4jwYJorrCEV1VpYxVyvaeOHJefnTvhI2FTz3=
+4Bal90lwqeSw7zHkowj_F17NJ9-3fO8lxAw_RDWnwKD4Ynrx1Yl4fjGbJaLCM6uJVTYBVz9Sx23=
+7LZc0Udybn59d7HZpbNhSu6ruM38rTilktteCd5KqaCtvkCLQFlLtWQPfEOjOGtStQrU6QYm43G=
+z0efOLE0ernt_AXzuar8" style=3D"color: #d48037; text-decoration: none;">week=
+ly</a>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+
+       =20
+                    <tr>
+                <td style=3D"padding-top: 20px;">
+                    <h4 style=3D"font-size: 14pt; line-height: 14pt;">No Bl=
+acklist Monitors Configured</h4>
+                    <p style=3D"color: #888888;">
+                        You have not yet configured MxWatch to monitor any =
+servers for
+                        <a href=3D"http://email.mxtoolbox.com/c/eJxVUMtugzA=
+Q_Bq4VKD1IxgfOFA1_Ea0rJ1g1caRMW369zVVcqi0l52d2dkdM2iSIGo3cOAAHddMSXaClrVnJe=
+E8KjYyYN048UpCeOQY_RwfLcVQL4Pk1OkeALniM16po17MkjNi6iR7A7UflpzvWyXGik-l_i04-=
+ri6HJNbb6VBYw6WmPYcLlvcE9lKfMwe6dO7LV-2PQRMPxXvDgJhuKO7rYUSHt-YaXkOgjVuDwW2=
+AZ1_seOa7ZoLek3WXl7PPqfZpkPw_rJ6Gym7L5f_vA6NEqbTUjRKaWhKXtAgMN6wWfEr9kha8Dq=
+VCEEfKWEij6uJPre01Hl4Hv4LFe5yGw" style=3D"color: #d48037; text-decoration: =
+none;">Blacklist Activity</a>. Don't get surprised by email problems! Add a=
+ free blacklist monitor and we will alert you instantly if you are blacklis=
+ted.
+                    </p>
+                    <p>
+                        <a href=3D"http://email.mxtoolbox.com/c/eJxVkE1uwyA=
+QhU9jbypbw08gLLyw1GTXM1hjIDEKmAhjNb19QXUWlWYz874ZvXlmUJoDa91AgQIIqojk5AQ96S=
+-Sw2WUZCRAxHilDYfwyjH6Ob56HUO7DMIKpZFTNEQYpq1Fw7lQZsazhZOVrR-WnJ9bw8aGXkv9O=
+1D7uLock1vvpUFjKsWuew7TFvekbcM-Z4_64d2Wp20PAdNPQ0UFNIYnuvtakPD6xqyXQwjWuD2U=
+sQ3o_JuOa7ZrLtNbsnZ6P3uo2aa6MBrz8fXnaKtKpSUzQnHWSamgK0lBh0BoR2ZJb3hGrRhtUwk=
+PVM0Hk_a4muhzr5c2D4flX30jcMk" style=3D"background-color: #d48037; border: 1=
+px solid #F89406; color: #FFF; padding: 4px 8px; text-decoration: none">ADD=
+ FREE BLACKLIST MONITOR</a>
+                    </p>
+                </td>
+            </tr>
+            </tbody>
+</table>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+
+                           =20
+                                <tr>
+                                    <td class=3D"ad-EMAIL-DMARC-SUMMARY-AD">
+                                        <table border=3D"0" cellpadding=3D"=
+10" cellspacing=3D"0" style=3D"width:100%; background-color:#1b75ba; font-s=
+ize: 14px;">
+	<tbody>
+		<tr>
+			<td style=3D"padding-right: 20px; width: 130px;">
+			<p style=3D"margin-top: 0; color: #FFFFFF;">Happy Monitoring,</p>
+			<img alt=3D"MxToolbox" src=3D"https://images.mxtoolbox.com/public/emailt=
+emplates/images/footer-logo.png" /></td>
+			<td style=3D"text-align: center;  color: #FFFFFF; font-size: 10pt;">
+			<p><strong>Blacklists aren&#39;t the only threat to your email deliverab=
+ility. </strong><br />
+			Are you confident that your email is getting through?</p>
+
+			<p><a href=3D"http://email.mxtoolbox.com/c/eJxVUMtuhSAQ_RrcaQCfd-GCVE2a1=
+E2bLroyOOKVFMQAtt6_LybeRZOZnHmceU71DTKcRrKmmGJc0BspM5LjhCRtmeGWlYQRTArWUZRh=
+fXhj1GiOBIyOlpqnJaeiqqoA85xnlOMqJ4KMYwWc4DFS9eL95lDKEO2C_GsQfAi6WTPt4F0wJ6H=
+kj7APEKsXFqXd7vXgzG5BoLQZFYdvJZ0f3K41tw9Ei5MAXG9c3tdA0ccv97BcCS0muesQFppL9W=
+Sb0Hv1ITpbIYbn2Vc2jD0LnDI-vphD27PXt7jp2ftL_PHZB_yKWRPZ8DJ8O7_CLSi-Tkb5BJbI1=
+9d6f7T_cO0" style=3D"background-color: #f39900; border-bottom: 2px solid #d=
+38335; color: #fff; padding: 4px 8px; font-size: 16px; text-decoration: non=
+e"><strong>Find out</strong> with <strong>MxDelivery Center &raquo;</strong=
+> </a></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+                                    </td>
+                                </tr>
+                                                            <tr>
+                                    <td style=3D"background-color: #d5d5d5;=
+ padding-left: 10px;">
+                                        <h4 style=3D"font-size: 14pt; line-=
+height: 14pt;">News and Updates</h4>
+                                        <table style=3D"width:100%;">
+                                            <tbody>
+                                                <tr>
+                                                    <td style=3D"width:55%;=
+ vertical-align:top;">
+                                                        <table style=3D"wid=
+th:100%">
+                                                            <tbody>
+                                                                    <tr>
+                                                                        <td=
+ style=3D"padding-bottom: 5px;">
+                                                                           =
+ <small style=3D"color:#909090;">May 26, 2020</small><br />
+                                                                           =
+ <strong style=3D"font-size:14px;"><a href=3D"http://email.mxtoolbox.com/c/=
+eJxVjsEKwyAQRL8mHmVXtzEePAiN_6Fr0xRMLamF9O9rjoU5PYY3k51lAi0eToECGJVFQ3gBiXI=
+2BLM36BFw9EENBNvRai2pHpLrJlaHmiaDC-dpumHGmJhxWbIBzSlZzKK4tbXXoP2gQk8q9S7_JC=
+fXoTeuRMqIvd8Aey7FnUt85lqa5FU09_5snX1_wE0z6A" target=3D"_blank">Is your ema=
+il going to Spam?</a></strong> Many of our customers hear about us because =
+their business partners tell them that a message failed to reach their inbo=
+x or was found in the spam o...
+                                                                        </t=
+d>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td=
+ style=3D"padding-bottom: 5px;">
+                                                                           =
+ <small style=3D"color:#909090;">May 21, 2020</small><br />
+                                                                           =
+ <strong style=3D"font-size:14px;"><a href=3D"http://email.mxtoolbox.com/c/=
+eJxVjsEOgyAQRL9GjmR3WUEOHEiq_4GItQmWxtLE_n3x2GROL5M3szgbGZR4OAIC0GTRMPYgUY6=
+GYfQGPQJqP1HHsJ-1lDyXU8ayi81Z1kvC1PeDTRAU6YFMjGTTOq_IFER2W62vTvmOppY5l7v8k1=
+xcTa1xYyYSR7sB9loKR8zhuZRcZdxEde_P3tj3B3-KMzU" target=3D"_blank">A Case of =
+Fraud and Phishing</a></strong> Companies large and small are potential vic=
+tims of fraud and phishing using their brands and domains.&#160; If you lea=
+ve your business unprotected, it i...
+                                                                        </t=
+d>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td=
+ style=3D"padding-bottom: 5px;">
+                                                                           =
+ <small style=3D"color:#909090;">Apr 21, 2020</small><br />
+                                                                           =
+ <strong style=3D"font-size:14px;"><a href=3D"http://email.mxtoolbox.com/c/=
+eJxVjsEOgyAQRL9GjmR3wQUOHEgq_6FYaxMsxtLE_n3x2GROL5M3M3uXNCjx9AQEwOTQaOxBohy=
+MhiEYDAjIIVKnYTtrKXkqp0xlE6s3iYnuqHq3WMNIxJBmWnixyhpnR5H9WuveqdBRbJlyecg_yc=
+VVbI2b1sDiaDfAXUvjkfL4mkuuMq2i-vdna-z7AzzBMoQ" target=3D"_blank">Case Study=
+: Financial Services Company</a></strong> MxToolbox has a decade plus histo=
+ry of improving email deliverability for our customers.&#160; Occasionally,=
+ one of our customers provides ins...
+                                                                        </t=
+d>
+                                                                    </tr>
+                                                            </tbody>
+                                                        </table>
+                                                    </td>
+                                                    <td style=3D"vertical-a=
+lign:bottom;"><img src=3D"https://images.mxtoolbox.com/public/emailtemplate=
+s/images/email-cartoon-mailman.png" style=3D"width:100%;" /></td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </td>
+                                </tr>
+
+                            <!-- FOOTER -->
+                            <tr>
+                                <td style=3D"background-color: #E0E0E0; col=
+or: #444444;">
+                                    <table cellpadding=3D"5" style=3D"width=
+: 100%; font-size: 10px;">
+                                        <tbody>
+                                            <tr>
+                                                <td style=3D"text-align:cen=
+ter; line-height: 11px;">
+                                                    This email was sent to =
+<a href=3D"mailto:2009@marclandolt.ch" style=3D"color: #d48037; text-decora=
+tion: none;">Marc Landolt</a><br />
+                                                    You are receiving this =
+email because you have an account at <a href=3D"http://email.mxtoolbox.com/=
+c/eJxVzTsOwyAQBNDTQIkWzCcUFBT2PdglEZEgRDaWnNuHlJGmGmne5OBJw8KfQYECsMpLp6UBI=
+cXqNKzRyShB2rgppqFdo_eK_RLUGy_B-JtTd5y7bJJFnafxQE8GKWEmw2soY7wPtkSmtpl_YJ-n=
+4H9u2qmmV-51CCp8hONss_t8AWcDLz0" style=3D"color: #d48037; text-decoration: =
+none;">https://mxtoolbox.com</a>. See our <a href=3D"http://email.mxtoolbox=
+=2Ecom/c/eJxVUMtuhDAM_JpwRHktjwMHpC7n_QN=
+kTFqiJgQF04W_39Cyh0q-eGZszczY1Ki5ymwj=
+ueS8kLUotbjxXOT3UvN7W4pWcFG0nWSa-51CcEPYcww-m5phkDXowWioyuoGWmMFRlUlQCGlUCp=
+zzUS0rEy1THZp_j1I-xLtD-CxBGfxyGFddqa6jXy_hi2iYepjcIDfzq7Ur5v3EA8mi1OA4BewX3=
+OS-P0JhNNFeDPazSfYeLDurQ4zmZkS-hmN6d9ZL5ZMPA8ef2Yev2aymBrh9RkaIjqYx-Aoxymj5=
+jLyAiVqZ0I" style=3D"color: #d48037; text-decoration: none;">Privacy Policy=
+</a>.
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td style=3D"text-align:cen=
+ter; line-height: 11px;">
+                                                    &copy; 2004-2020, MxToo=
+lBox, Inc., All rights reserved. Phone: 1-866-MXTOOLBOX | 1-866-698-6652<br=
+ />
+                                                    12710 Research Blvd., S=
+uite 225, Austin, TX 78759 | Date: 41/29/2020<br />
+                                                    <a href=3D"http://email=
+=2Emxtoolbox.com/c/eJxVULtuwzAM_Bp7s6FXL=
+GnwYKDJ3KVzQNFKLVSyDElG3b-vDCRAC3Ag74=
+7E8eZRoyC8dSMjjJCBaSoFvZCe9lcpyHWSdKKEDtONNYKEo8ToTTx6jKFdRjqLC5Nq0AMzQmmK1=
+BglhFI4A9dKtn5cStlyw6eG3Wr9O1Dn9914h7X5WPNuMiZnbA95Oxp-20u457gntA1_Mx7wy7tc=
+7nkPAdJPw4ZTgBA2cJ9rlYTjGwouTyLY2e2hwjaA8y91XItdS0Ufydr76-UnW2w6F_5YOYlTLPk=
+8aME7KTXpalykA0JZR41kD1CAmrM21QSJPkOChB7WOfrS49KW8en4F9gLchU" style=3D"colo=
+r: #d48037; text-decoration: none;">Unsubscribe</a> | <a href=3D"http://ema=
+il.mxtoolbox.com/c/eJxVULtuwzAM_Bp7s6FXrWjwYLTx3KVzQFFKLFSyUz1Q9-8rF8lQgAN5=
+vOPjzKhQEN66kRFGyMAUlYK-kJ72ZynIeZJ0ooQO08waQcKet83rbe9xC-0yKglWgBgGOaBUWlt=
+jrOEnFFc0XEve-nHJ-Z4aPjVsrvFvQK3fi_YOa_KxpqITRqdtD-m-N3wuOVzSViLahr9pD_jpXc=
+qXVEKA-NOw4SAghDu421opYf-GjMujEaxxJVTYBnD-yd7WbNdc0Wu09vJ8-dHNNh6C1wXWmz0fs=
+jnar2JX_Nt2qCQ3gxK8k1KRrvpGOiCUdVRLdoUToOKsjdVKog63IKKH1Ww-97i0eXyc_gvXwHbq=
+" style=3D"color: #d48037; text-decoration: none;">Change Email Frequency</=
+a>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+<img width=3D"1px" height=3D"1px" alt=3D"" src=3D"http://email.mxtoolbox.co=
+m/o/eJwVzDEOwyAMQNHTlBHZBGwYGBiSeySmUSpBkVIqpbcPXZ_0f45BLEzqFQ0YADIB2aIDjXp=
+mC3NiTAhIaTEPC_XqrZWtXVpaVUcUEqGc-RnI7Rs5j9MOPgsBex6gzrGF8C_XU8r6zq10LYfq8f=
+Otw343f-Mk1Q"></body>
+</html>

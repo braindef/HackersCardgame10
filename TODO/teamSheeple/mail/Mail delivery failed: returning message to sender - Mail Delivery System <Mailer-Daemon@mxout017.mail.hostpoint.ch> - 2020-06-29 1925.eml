@@ -1,0 +1,110 @@
+Return-Path: <>
+Delivered-To: mail@marclandolt.ch
+Received: from mail-lb1.adm.hostpoint.ch ([10.0.0.105])
+	by popimap018.mail.hostpoint.ch with LMTP
+	id oAMjOe0j+l6JAwEA7JE5TA
+	(envelope-from <>)
+	for <mail@marclandolt.ch>; Mon, 29 Jun 2020 19:25:01 +0200
+Received: from mxin018.mail.hostpoint.ch ([10.4.2.218])
+	by mail-lb1.adm.hostpoint.ch with LMTP id wIYvOe0j+l4ffwEA9BAvQA
+	; Mon, 29 Jun 2020 19:25:01 +0200
+Received: from mxout017.mail.hostpoint.ch ([217.26.49.177])
+	by mxin018.mail.hostpoint.ch with esmtps (TLSv1.3:TLS_AES_256_GCM_SHA384:256)
+	(Exim 4.92.3 (FreeBSD))
+	id 1jpxWf-000Jg9-Ta
+	for mail@marclandolt.ch; Mon, 29 Jun 2020 19:25:01 +0200
+Received: from mailnull by mxout017.mail.hostpoint.ch with local (Exim 4.92.3 (FreeBSD))
+	id 1jpxWf-000C43-RD
+	for mail@marclandolt.ch; Mon, 29 Jun 2020 19:25:01 +0200
+X-Failed-Recipients: alskhdfhklasgd@helsana.ch,
+  adgkjadgj@pdag.ch,
+  oergonkgj@fedpol.admin.ch
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@mxout017.mail.hostpoint.ch>
+To: mail@marclandolt.ch
+Content-Type: multipart/report; report-type=delivery-status; boundary=1593451501-eximdsn-33613
+MIME-Version: 1.0
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1jpxWf-000C43-RD@mxout017.mail.hostpoint.ch>
+Date: Mon, 29 Jun 2020 19:25:01 +0200
+X-Whitelisted-By: dnswl.hostpoint.dnslist
+X-Vs-State: BOUNCE
+X-Hostpoint-Spambox: NO
+
+--1593451501-eximdsn-33613
+Content-type: text/plain; charset=us-ascii
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  alskhdfhklasgd@helsana.ch
+    host mailhost1.helsana.ch [193.73.106.84]
+    SMTP error from remote mail server after RCPT TO:<alskhdfhklasgd@helsana.ch>:
+    550 #5.1.0 Address rejected.
+  adgkjadgj@pdag.ch
+    host mail3.hintag.ch [91.198.72.205]
+    SMTP error from remote mail server after RCPT TO:<adgkjadgj@pdag.ch>:
+    550 5.1.1 <adgkjadgj@pdag.ch>... User unknown
+  oergonkgj@fedpol.admin.ch
+    host mailgate1.admin.ch [162.23.32.31]
+    SMTP error from remote mail server after RCPT TO:<oergonkgj@fedpol.admin.ch>:
+    554 5.7.1 <oergonkgj@fedpol.admin.ch>: Recipient address rejected:
+    Access denied
+
+--1593451501-eximdsn-33613
+Content-type: message/delivery-status
+
+Reporting-MTA: dns; mxout017.mail.hostpoint.ch
+
+Action: failed
+Final-Recipient: rfc822;oergonkgj@fedpol.admin.ch
+Status: 5.0.0
+Remote-MTA: dns; mailgate1.admin.ch
+Diagnostic-Code: smtp; 554 5.7.1 <oergonkgj@fedpol.admin.ch>: Recipient address rejected: Access denied
+
+Action: failed
+Final-Recipient: rfc822;adgkjadgj@pdag.ch
+Status: 5.0.0
+Remote-MTA: dns; mail3.hintag.ch
+Diagnostic-Code: smtp; 550 5.1.1 <adgkjadgj@pdag.ch>... User unknown
+
+Action: failed
+Final-Recipient: rfc822;alskhdfhklasgd@helsana.ch
+Status: 5.0.0
+Remote-MTA: dns; mailhost1.helsana.ch
+Diagnostic-Code: smtp; 550 #5.1.0 Address rejected.
+
+--1593451501-eximdsn-33613
+Content-type: text/rfc822-headers
+
+Return-path: <mail@marclandolt.ch>
+Received: from [10.0.2.46] (helo=asmtp013.mail.hostpoint.ch)
+	by mxout017.mail.hostpoint.ch with esmtp (Exim 4.92.3 (FreeBSD))
+	(envelope-from <mail@marclandolt.ch>)
+	id 1jpxWZ-000C1u-Ip; Mon, 29 Jun 2020 19:24:55 +0200
+Received: from 178-82-215-219.dynamic.hispeed.ch ([178.82.215.219] helo=[192.168.179.103])
+	by asmtp013.mail.hostpoint.ch with esmtpsa (TLSv1.3:TLS_AES_256_GCM_SHA384:256)
+	(Exim 4.92.3 (FreeBSD))
+	(envelope-from <mail@marclandolt.ch>)
+	id 1jpxWY-000ClT-Oq; Mon, 29 Jun 2020 19:24:55 +0200
+X-Authenticated-Sender-Id: mail@marclandolt.ch
+To: Katrin.Hanno@pdag.ch, info@fedpol.admin.ch, presse@bger.ch,
+ kb3.bern@helsana.ch, svaaargau@sva-ag.ch, info@sva-ag.ch
+From: "Marc jr. Landolt" <mail@marclandolt.ch>
+Subject: Patienten in den finanziellen Ruin treiben um Selbsthass etc zu
+ induzieren?
+Message-ID: <7c9a974f-52dc-bdc1-0a14-93bc2ec4e7cd@marclandolt.ch>
+Disposition-Notification-To: "Marc jr. Landolt" <mail@marclandolt.ch>
+Date: Mon, 29 Jun 2020 19:24:54 +0200
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:68.0) Gecko/20100101
+ Thunderbird/68.9.0
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="------------F781693745BC41DE1844C051"
+Content-Language: en-US
+X-Exim-DSN-Information: Due to administrative limits only headers are returned
+
+
+--1593451501-eximdsn-33613--
